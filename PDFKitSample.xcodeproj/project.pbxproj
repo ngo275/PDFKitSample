@@ -12,6 +12,7 @@
 		2593F7E520B76A8B00319C1B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2593F7E320B76A8B00319C1B /* Main.storyboard */; };
 		2593F7E720B76A8B00319C1B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2593F7E620B76A8B00319C1B /* Assets.xcassets */; };
 		2593F7EA20B76A8B00319C1B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2593F7E820B76A8B00319C1B /* LaunchScreen.storyboard */; };
+		2593F7F220B76AC100319C1B /* sample.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 2593F7F120B76AC100319C1B /* sample.pdf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		2593F7E620B76A8B00319C1B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2593F7E920B76A8B00319C1B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		2593F7EB20B76A8B00319C1B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2593F7F120B76AC100319C1B /* sample.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = sample.pdf; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 		2593F7DE20B76A8B00319C1B /* PDFKitSample */ = {
 			isa = PBXGroup;
 			children = (
+				2593F7F120B76AC100319C1B /* sample.pdf */,
 				2593F7DF20B76A8B00319C1B /* AppDelegate.swift */,
 				2593F7E120B76A8B00319C1B /* ViewController.swift */,
 				2593F7E320B76A8B00319C1B /* Main.storyboard */,
@@ -123,6 +126,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2593F7F220B76AC100319C1B /* sample.pdf in Resources */,
 				2593F7EA20B76A8B00319C1B /* LaunchScreen.storyboard in Resources */,
 				2593F7E720B76A8B00319C1B /* Assets.xcassets in Resources */,
 				2593F7E520B76A8B00319C1B /* Main.storyboard in Resources */,
